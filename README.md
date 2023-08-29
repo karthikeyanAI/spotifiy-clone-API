@@ -4,9 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/thelinmichael/spotify-web-api-node/badge.svg)](https://coveralls.io/r/thelinmichael/spotify-web-api-node)
 [![npm bundle size (minified + gzip)](https://img.shields.io/bundlephobia/minzip/spotify-web-api-node.svg)](https://bundlephobia.com/result?p=spotify-web-api-node)
 
-This is a universal wrapper/client for the [Spotify Web API](https://developer.spotify.com/web-api/) that runs on Node.JS and the browser, using [browserify](http://browserify.org/)/[webpack](https://webpack.github.io/)/[rollup](http://rollupjs.org/). A list of selected wrappers for different languages and environments is available at the Developer site's [Libraries page](https://developer.spotify.com/documentation/web-api/libraries/).
-
-Project owners are [thelinmichael](https://github.com/thelinmichael) and [JMPerez](https://github.com/JMPerez), with help from [a lot of awesome contributors](https://github.com/thelinmichael/spotify-web-api-node/network/members).
+This is a universal wrapper/client for the [Spotify Web API](https://developer.spotify.com/web-api/) that runs on Node.JS and the browser, using [browserify](http://browserify.org/)/[webpack](https://webpack.github.io/)/[rollup](http://rollupjs.org/).
 
 ## Version 5
 
